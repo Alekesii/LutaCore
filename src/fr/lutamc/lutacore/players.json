@@ -1,0 +1,14 @@
+{
+  "player1": {
+    "id": 1,
+    "pseudo": "Alekesi",
+    "rank": "ADMIN",
+    "uuid": "74da113b-4dac-445a-b340-940ec812b3fc"
+  },
+  "player2": {
+    "id": 2,
+    "pseudo": "02Alexis",
+    "rank": "ADMIN",
+    "uuid": "5529e8d0-2088-400d-82d5-37b6a70adb6b"
+  }
+}

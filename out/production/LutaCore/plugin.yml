@@ -1,0 +1,9 @@
+name: LutaCore
+main: fr.lutamc.lutacore.Main
+author: Alekesi
+version: 1.0
+commands:
+  setrank:
+    description: admin*
+  rank:
+    description: admin*
